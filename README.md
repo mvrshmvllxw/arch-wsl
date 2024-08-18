@@ -1,0 +1,1 @@
+![Termianl Screenshot](/img/terminal.png?raw=true "WSL")
