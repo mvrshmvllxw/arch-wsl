@@ -192,7 +192,7 @@ starship
 
 - insatll custom cursor (is in this repository)
 
-- place mainWM.exe in shell:startup, then you can manage windows by hotkeys:
+- place minWM.exe in shell:startup, then you can manage windows by hotkeys:
 
 ```
 CapsLock > change keyboard layout (shift + alt remapping)
