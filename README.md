@@ -204,7 +204,7 @@ win + w | a | s | d > emulate win + arrow to manage windows
 win + q | e > emulate hotkeys to change virtual desktop
 ```
 
-- isnatll TranslucentTB from https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=en-US&gl=US
+- install TranslucentTB from https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=en-US&gl=US
 
 - install Windows 11 Start Menu Styler https://windhawk.net/mods/windows-11-start-menu-styler
 
